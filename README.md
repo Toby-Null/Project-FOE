@@ -1,3 +1,28 @@
+## Project FOE - Fabula of Exile
+Project FOE is RPG bot with complex combat system, (not too complex since limit in discord). It play like pokemon.
+
+## Fabula of Exile - Discord RPG - Feature list
+FOE at beta release will include these feature
+
+### Basic system in any RPG
+- Level System
+- Class System
+- Economy
+
+### Unique FOE's bot feature
+- Stats system
+- Potential Points (Use to upgrade your stats)
+- Skill Points (Use to upgrade Skills)
+- Equipment System (You can equip upto 5 items)
+- Skill System (You can customize your character skills) (Your character, your playstyle) (You can have warrior using bow)
+
+- Tower of Doom - (100 Floors fighting boss) (Monthly reset)
+- Adventure - (If you like to grind, this is the place, every 10 stage, there will be 1 boss fight)
+- Idle Daily system - Claim your reward - max cap 24h
+
+- Raid - Raid boss together with whole servers.
+- Crafting system - craft your gears, skills.
+
 # Prologue:
 
 As my journey begins, I cannot help but think back on the events that led to the Fabula of Exile.

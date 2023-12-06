@@ -1,6 +1,8 @@
 ## Project FOE - Fabula of Exile
 Project FOE is RPG bot with complex combat system, (not too complex since limit in discord). It play like pokemon.
 
+------------
+
 ## Fabula of Exile - Discord RPG - Feature list
 FOE at beta release will include these feature
 
@@ -22,6 +24,8 @@ FOE at beta release will include these feature
 
 - Raid - Raid boss together with whole servers.
 - Crafting system - craft your gears, skills.
+
+------------
 
 # Prologue:
 
